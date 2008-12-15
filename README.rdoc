@@ -1,0 +1,3 @@
+This is embryonic. 
+The Api class can read posts, and write a new post.
+I'll be expanding it more over the next couple of weeks.
